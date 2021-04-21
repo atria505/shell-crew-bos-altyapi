@@ -31,7 +31,7 @@ npm install --global --production --add-python-to-path windows-build-tools node-
 ```
 yazdıktan sonra yine hata verirse node_modules klasörünü silin, tekrar kodları deneyin,
 tamamlası biraz uzun sürebilir(15-30 dakika),
-Tamamlandığında all done yazacaktır.
+Tamamlandığında `All done!` + `windows-build-tools` yazacaktır.
 Bunu yazdıktan sonra Powershell kapatın.
 botunuzun olduğu dosyaya gelip: 
 `shift+sağtık` yapın ve powershell/cmd açın:
