@@ -38,6 +38,7 @@ botunuzun olduğu dosyaya gelip:
 ```js
 npm init -y
 ``` 
+yazın
 ardından:
 ```js
 npm install quick.db
