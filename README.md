@@ -55,7 +55,12 @@ client.login("bot token")
 
 `Path :`**`conf/settings.js`**
 ```js
-exports.prefix = "?";
+exports.prefix = "+"
 // Yukarıya Botunuzun Ön-Ek (Prefix) değerini yazın
 ```
 
+`Path :`**`conf/settings.js`**
+```js
+exports.developer = {"bot developer id":{}}
+// Yukarıya bot sahibinin id değerini yazın
+```
