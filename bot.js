@@ -106,7 +106,7 @@ client.on('warn', e => {
 client.on('error', e => {
   console.log("Hata oldu amk: "+e);
 });
-client.login("ODA5MTA3NTgzMzA2MzAxNDgx.YCQSKA.8SPr9PV9vUkKD50bmoGoLc2wxoE")
+client.login("bot token")
 const { promisify } = require('util')
 
 client.config = require("./conf/settings")
