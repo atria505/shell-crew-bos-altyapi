@@ -44,9 +44,8 @@ ardından:
 npm install quick.db
 ```
 ve son, quick.db yüklenmiş olması gerek.
-Hala yüklenmedi mi?
 
-Bana ulaş,
+Hala yüklenmedi mi? Bana ulaş,
 
 Discord: `Atria#0303`
 
