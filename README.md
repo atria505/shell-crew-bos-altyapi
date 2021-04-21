@@ -40,7 +40,7 @@ npm init -y
 ``` 
 yazın
 ardından:
-```js
+```
 npm install quick.db
 ```
 ve son, quick.db yüklenmiş olması gerek.
