@@ -44,7 +44,9 @@ ardından:
 npm install quick.db
 ```
 ve son, quick.db yüklenmiş olması gerek.
-Hala yüklenmediyse Discord: `Atria#0303`
+Hala yüklenmedi mi?
+Bana ulaş,
+Discord: `Atria#0303`
 
 ## Gerekli Ayarlar
 `Path :`**`bot.js`**
