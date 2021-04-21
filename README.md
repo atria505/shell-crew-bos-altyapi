@@ -1,6 +1,6 @@
 ## Shell Crew
 
-Gelişmiş boş altyapı.
+Boş altyapı.
 
 ## Kurulum
 
