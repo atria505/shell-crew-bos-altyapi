@@ -47,7 +47,7 @@ ve son, quick.db yüklenmiş olması gerek.
 
 Hala yüklenmedi mi? Bana ulaş,
 
-Discord: `Atria#0303`
+Discord: `Atria#0008`
 
 ## Gerekli Ayarlar
 `Path :`**`bot.js`**
